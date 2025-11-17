@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Yoel Bedoya Velez
-=======
-Marcos Herrero Ruiz
->>>>>>> origin
+Yoel Bedoya Velez 18 años
